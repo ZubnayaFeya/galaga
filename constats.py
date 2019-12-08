@@ -1,0 +1,7 @@
+TITLE = 'Моя игра'
+WINDOW_HIGTH = 480
+WINDOW_WIDTH = 640
+
+FPS = 60
+
+BLACK = (0, 0, 0)
